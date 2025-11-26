@@ -1,0 +1,1 @@
+web: gunicorn asset_bot:app
